@@ -1,0 +1,8 @@
+pytz
+aiogram
+pyTelegramBotAPI
+requests
+pytz
+gspread
+python-dotenv
+oauth2client
